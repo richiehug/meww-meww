@@ -12,11 +12,11 @@ Meww Meww has six faces - 1 for humans (cat owners) and 5 for cats (human owners
 
 ![Meww Meww](docs/meww-meww.jpg)
 
-![Meww Meww Overview](docs/meww-meww-overview.webm)
+![Meww Meww Overview](docs/meww-meww-overview.webp)
 
-![Meww Meww Interface](docs/meww-meww-interface.webm)
+![Meww Meww Interface](docs/meww-meww-interface.webp)
 
-![Meww Meww Treat Dispensed](docs/meww-meww-treats.webm)
+![Meww Meww Treat Dispensed](docs/meww-meww-treats.webp)
 
 ## Inside Meww Meww
 
